@@ -1,0 +1,13 @@
+.item-container {
+  text-align: left;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.name {
+  font-size: 14px;
+}
+
+.image {
+  width: 200px;
+  height: 140px;
+}
